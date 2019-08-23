@@ -1,0 +1,11 @@
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\bin\Debug\netcoreapp2.1\SingleInstance.deps.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\bin\Debug\netcoreapp2.1\SingleInstance.runtimeconfig.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\bin\Debug\netcoreapp2.1\SingleInstance.runtimeconfig.dev.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\bin\Debug\netcoreapp2.1\SingleInstance.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\bin\Debug\netcoreapp2.1\SingleInstance.pdb
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.csprojAssemblyReference.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.csproj.CoreCompileInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.AssemblyInfoInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.AssemblyInfo.cs
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SingleInstance\SingleInstance\obj\Debug\netcoreapp2.1\SingleInstance.pdb
