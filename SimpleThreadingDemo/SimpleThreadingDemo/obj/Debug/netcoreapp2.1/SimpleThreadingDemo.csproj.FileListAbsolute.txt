@@ -1,0 +1,11 @@
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp2.1\SimpleThreadingDemo.deps.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp2.1\SimpleThreadingDemo.runtimeconfig.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp2.1\SimpleThreadingDemo.runtimeconfig.dev.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp2.1\SimpleThreadingDemo.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\netcoreapp2.1\SimpleThreadingDemo.pdb
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.csprojAssemblyReference.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.AssemblyInfo.cs
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\netcoreapp2.1\SimpleThreadingDemo.pdb
