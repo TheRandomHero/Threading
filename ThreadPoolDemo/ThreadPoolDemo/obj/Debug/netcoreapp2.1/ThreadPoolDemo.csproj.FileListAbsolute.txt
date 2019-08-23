@@ -1,0 +1,11 @@
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\netcoreapp2.1\ThreadPoolDemo.deps.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\netcoreapp2.1\ThreadPoolDemo.runtimeconfig.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\netcoreapp2.1\ThreadPoolDemo.runtimeconfig.dev.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\netcoreapp2.1\ThreadPoolDemo.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\netcoreapp2.1\ThreadPoolDemo.pdb
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.csprojAssemblyReference.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.AssemblyInfoInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.AssemblyInfo.cs
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\netcoreapp2.1\ThreadPoolDemo.pdb
