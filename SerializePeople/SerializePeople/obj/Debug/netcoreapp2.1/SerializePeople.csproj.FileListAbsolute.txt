@@ -1,0 +1,11 @@
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\bin\Debug\netcoreapp2.1\SerializePeople.deps.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\bin\Debug\netcoreapp2.1\SerializePeople.runtimeconfig.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\bin\Debug\netcoreapp2.1\SerializePeople.runtimeconfig.dev.json
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\bin\Debug\netcoreapp2.1\SerializePeople.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\bin\Debug\netcoreapp2.1\SerializePeople.pdb
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.csprojAssemblyReference.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.csproj.CoreCompileInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.AssemblyInfoInputs.cache
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.AssemblyInfo.cs
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.dll
+C:\Users\Miller\C#\SIAssignments\ThirdWeek\Threading\SerializePeople\SerializePeople\obj\Debug\netcoreapp2.1\SerializePeople.pdb
